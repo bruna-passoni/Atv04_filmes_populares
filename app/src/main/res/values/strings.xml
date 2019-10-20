@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="filme_image">Image of a film</string>
+    <string name="language_api">en-US</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="looking_for_moview">Looking for movies</string>
+    <string name="title_hint">Title:</string>
+    <string name="averege_hint">Average</string>
+    <string name="title_orig_hint">Title original:</string>
+    <string name="votes_hint">Votes:</string>
+</resources>

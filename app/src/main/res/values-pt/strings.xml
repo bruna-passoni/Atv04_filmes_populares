@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="action_settings">Configurações</string>
+    <string name="filme_image">Poster de um filme</string>
+    <string name="language_api">pt-BR</string>
+    <string name="please_wait">Por favor, aguarde...</string>
+    <string name="looking_for_moview">Procurando filmes</string>
+    <string name="title_hint">Título:</string>
+    <string name="averege_hint">Média</string>
+    <string name="title_orig_hint">Título Original:</string>
+    <string name="votes_hint">Avaliações:</string>
+</resources>
